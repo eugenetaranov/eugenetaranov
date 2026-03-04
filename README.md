@@ -13,6 +13,7 @@ DevOps / infrastructure engineer. I build Go CLI tools to scratch my own itches 
 | [**ssmsearch**](https://github.com/eugenetaranov/ssmsearch) | Fast fuzzy search over AWS SSM Parameter Store with local caching and tree view. |
 | [**cronlock**](https://github.com/eugenetaranov/cronlock) | Distributed cron with Redis-based locking — exactly-once job execution across multiple nodes. |
 | [**jiractl**](https://github.com/eugenetaranov/jiractl) | Jira from the terminal. Interactive menus, saved JQL queries, secure keyring storage. |
+| [**mysqlmonitoring**]([https://github.com/eugenetaranov/jiractl](https://github.com/eugenetaranov/mysqlmonitoring)) | MySQL lock monitor - detect lock contention, long transactions, and deadlocks |
 
 ---
 
