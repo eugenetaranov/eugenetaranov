@@ -1,6 +1,6 @@
 # hey, I'm Eugene 👋
 
-DevOps / infrastructure engineer. I build Go CLI tools to scratch my own itches — mostly around AWS, config management, and making terminal life less painful.
+DevOps / infrastructure engineer. I build Go CLI tools to scratch my own itches - mostly around AWS, config management, and making terminal life less painful.
 
 ---
 
